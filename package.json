@@ -1,14 +1,11 @@
 {
-  "name": "nodejs-sandbox",
+  "name": "@react-scad/example",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "start": "node --watch index.js"
+    "start": "npx tsx main.jsx"
   },
-  "keywords": [],
-  "author": "Ives van Hoorne",
-  "license": "MIT",
-  "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "@react-scad/core": "^0.1.12",
+    "react": "^18.3.1"
+  }
 }
