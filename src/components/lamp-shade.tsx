@@ -1,4 +1,3 @@
-import React from "react";
 import { Cylinder, Difference, Translate } from "@react-scad/core";
 
 export const LampShade = () => (

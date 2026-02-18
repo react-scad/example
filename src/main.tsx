@@ -1,4 +1,3 @@
-import React from "react";
 import { createRoot, Union } from "@react-scad/core";
 import { LampArms } from "./components/lamp-arms";
 import { LampBase } from "./components/lamp-base";
