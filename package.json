@@ -2,6 +2,7 @@
   "name": "@react-scad/example",
   "version": "1.0.0",
   "scripts": {
+    "dev": "npx tsx watch main.jsx",
     "start": "npx tsx main.jsx"
   },
   "dependencies": {
