@@ -5,7 +5,6 @@ import { LampBase } from "./components/lamp-base";
 import { LampShade } from "./components/lamp-shade";
 import { LampStand } from "./components/lamp-stand";
 
-
 export const Lamp = () => (
   <Union>
     <LampBase />
