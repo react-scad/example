@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "tsx watch main.tsx",
-    "start": "tsx main.tsx"
+    "dev": "tsx watch src/main.tsx",
+    "start": "tsx src/main.tsx"
   },
   "dependencies": {
     "@react-scad/core": "latest",
