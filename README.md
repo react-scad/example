@@ -1,6 +1,6 @@
 # react-scad minimal example
 
-A minimal [react-scad](https://github.com/react-scad/react-scad) project.
+A minimal [react-scad](https://github.com/react-scad/react-scad) project (TypeScript).
 
 ## Getting Started
 

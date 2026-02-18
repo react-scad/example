@@ -1,15 +1,18 @@
 {
   "name": "@react-scad/example",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "dev": "tsx watch main.jsx",
-    "start": "tsx main.jsx"
+    "dev": "tsx watch main.tsx",
+    "start": "tsx main.tsx"
   },
   "dependencies": {
     "@react-scad/core": "latest",
     "react": "^18.3.1"
   },
   "devDependencies": {
-    "tsx": "^4.19.2"
+    "@types/react": "^18.3.12",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
   }
 }
