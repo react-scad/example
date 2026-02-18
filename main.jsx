@@ -9,8 +9,6 @@ import {
   Union,
 } from "@react-scad/core";
 
-const root = createRoot("model.scad");
-
 export const Lamp = () => {
   return (
     <Union>
@@ -43,6 +41,8 @@ export const Lamp = () => {
     </Union>
   );
 };
+
+const root = createRoot("model.scad");
 
 root.render(
   <>
