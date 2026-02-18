@@ -2,11 +2,14 @@
   "name": "@react-scad/example",
   "version": "1.0.0",
   "scripts": {
-    "dev": "npx tsx watch main.jsx",
-    "start": "npx tsx main.jsx"
+    "dev": "tsx watch main.jsx",
+    "start": "tsx main.jsx"
   },
   "dependencies": {
-    "@react-scad/core": "^0.1.17",
+    "@react-scad/core": "latest",
     "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2"
   }
 }
