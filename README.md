@@ -1,19 +1,21 @@
 # react-scad minimal example
 
-A minimal [react-scad](https://github.com/react-scad/react-scad) project: one cube, one sphere, unioned and written to `model.scad`.
+A minimal [react-scad](https://github.com/react-scad/react-scad) project.
 
-## Prerequisites
+## Getting Started
+
+### Prerequisites
 
 - **Node.js** 18+
 - **npm** (or pnpm / yarn)
 
-## Setup
+### Install
 
 ```bash
 npm install
 ```
 
-## Run
+### Run
 
 **`npm run dev`** — Use when developing: watches your files and re-runs on changes so the `.scad` output updates as you edit.
 
