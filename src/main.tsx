@@ -15,4 +15,5 @@ export const Lamp = () => (
 );
 
 const root = createRoot("model.scad");
+
 root.render(<Lamp />);
